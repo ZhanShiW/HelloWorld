@@ -78,5 +78,6 @@ public class HelloWorld {
 //		byte b = 4;
 //		System.out.print(b);
 		System.out.println("I am Zhan, glad to see you.");
+		System.out.println("This is my first HelloWorld file.");
 	}	
 }
