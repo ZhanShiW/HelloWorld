@@ -74,8 +74,8 @@ public class HelloWorld {
 //			s = s.next;
 //		}		 
 //		
-//		System.out.println("exit");		
-		byte b = 4;
-		System.out.print(b);
+		System.out.println("Hello World!");		
+//		byte b = 4;
+//		System.out.print(b);
 	}	
 }
