@@ -4,3 +4,5 @@ Git does not point to file.
 I am still on work now.
 
 push to remote github.
+Clone from remote github.
+push it to remote github.
